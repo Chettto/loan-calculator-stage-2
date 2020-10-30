@@ -1,8 +1,9 @@
 print('Enter the credit principal: ')
 credit_principal = int(input())
-print('What do you want to calculate?')
-print('type "m" - for count of months,')
-print('type "p" - for monthly payment,')
+print("""
+What do you want to calculate?
+type "m" - for count of months
+type "p" - for monthly payment""")
 calc = input()
 if calc == 'm':
     print('Enter monthly payment:')
