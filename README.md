@@ -1,5 +1,4 @@
 # Python education project by JetBbrains: loan calculator stage 2/4 Dreamworld.
-
 # Description
 The user might know the period of the loan and want to calculate the monthly payment. Or the user might know the amount of the monthly repayments and wonder how many months it will take to repay the loan in full.
 We need to ask the user to input the loan principal amount. Then, the user should indicate what needs to be calculated (the monthly payment amount or the number of months) and enter the required parameter. After that, the loan calculator should output the value that the user wants to know.
